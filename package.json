@@ -1,0 +1,17 @@
+{
+  "name": "wish-word-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehwish Sheikh",
+  "license": "MIT",
+  "keywords": [],
+  "description": "This is a word counter"
+}
